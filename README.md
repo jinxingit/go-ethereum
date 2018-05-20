@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go Ethereum jinxin
 
 Official golang implementation of the Ethereum protocol.
 
